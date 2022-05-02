@@ -32,3 +32,4 @@ A self-driving car, also known as an autonomous vehicle (AV), driver-less car, o
       <img src="https://github.com/nishchaya21/Self-Driving-Car/blob/main/Images/Screenshot%20(245).png?raw=true" width="650" alt="Result">
    </p>
    <br>
+<hr>
